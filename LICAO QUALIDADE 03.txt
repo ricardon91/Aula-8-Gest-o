@@ -1,0 +1,22 @@
+
+TESTE 1 - ALTERANDO DOCUMENTO
+
+
+-Ecommerce
+
+Teste recuperação: Cliente tenta colocar o produto no carrinho, mas ele
+não é adicionado depois da correção verifica se o produto é inserido para prosseguimento.
+Verifica se a (api) de preenchimento do CEP automatica é funcional , corrije e depois 
+testa funciona.
+
+Teste de segurança: Teste se é possível fazer o login de uma aplicação sem senha, 
+ou se é possivel logar sem ativação do captcha.
+
+Teste de desempenho: verifica a capacidade de armazenamento do banco de dados e avaliar a capacidade resposta em determinados cenários.
+
+2- 
+usa selenium pra teste.
+
+
+Cria um ambiente isolado e testa, depois um ambiente pro cliente da feeback,  e depois
+coloca em produção.
